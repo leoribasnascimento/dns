@@ -1,1 +1,1 @@
-# dns
+# DNS (Domain Name Server)
